@@ -2,6 +2,6 @@
 
 **Tecnologias utilizadas**
 
-Frontend: Vue.js
-Backend: Flask (python)
-Bundler: Vite
+- Frontend: Vue.js
+- Backend: Flask (python)
+- Bundler: Vite
