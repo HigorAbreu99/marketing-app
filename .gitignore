@@ -5,3 +5,9 @@
 
 # Arquivos de cache e de bytecode do Python
 __pycache__/
+
+# Pacotes Node
+node_modules
+
+# Arquivos de ambiente
+.env
